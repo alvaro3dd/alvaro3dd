@@ -1,48 +1,66 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alvaro3dd.alvaro3dd" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+everyone!+👋;+I'm+Alvaro+C!;Welcome+to+my+Github" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3> > About Me </h3>
 
-<br/>
-
-<div align="center">
+- 📍 Passionate for Business Operations & Data Analytics.
+- 💻 I’m currently working as Data Specialist at @NinjaOne
+- 📰 Curious about new technologies & business  
+- 🔷 Hobbies: Videogames 🎮, books 📖 & sports ⚽
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+------
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/alvaro3dd/alvaro3dd/issues)**
+<h3> > Connect with me </h3>
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarocancino/) 
+[![portfolioWeb](https://img.shields.io/badge/my_portfolio(TBC)/-fff?style=for-the-badge)](##)
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://alvaro3dd.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+------
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+## > SKILLS 🦾 ##
 
-<br/>
-<hr/>
+<h3> > Technologies / Languages </h3>
+
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+
+
+<h3> > Visualizations </h3>
+
+![image](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=White)
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![image](https://img.shields.io/badge/Looker-%23ffffff.svg?style=for-the-badge&logo=Looker&logoColor=White)
+
+
+
+<h3> > Pack Office </h3>
+
+![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![image](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
+
+-----
+
+<h3> > Languages </h3>
+
+- 🇨🇴 Spanish: Native 
+- 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Advance
+- 🇫🇷 French: Learning
+
+-----
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -66,11 +84,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
