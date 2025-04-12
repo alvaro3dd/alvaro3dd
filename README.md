@@ -7,7 +7,6 @@
 <h3> > About Me </h3>
 
 - 📍 Passionate for Business Operations & Data Analytics.
-- 💻 I’m currently working as Data Specialist at @NinjaOne
 - 📰 Curious about new technologies & business  
 - 🔷 Hobbies: Videogames 🎮, books 📖 & sports ⚽
  
