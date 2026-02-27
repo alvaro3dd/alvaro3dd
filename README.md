@@ -7,7 +7,7 @@
 <h3> > About Me </h3>
 
 - 📍 Passionate for Business Operations & Data Analytics.
-- 📰 Curious about new technologies & business  
+- 📰 Curious about new technologies & business ideas
 - 🔷 Hobbies: Videogames 🎮, books 📖 & sports ⚽
  
 ------
